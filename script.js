@@ -95,5 +95,4 @@ function isDraw() {
 canvas.addEventListener("click", handleClick);
 document.getElementById("restart").addEventListener("click", initGame);
 
-// 初始化
 initGame();
